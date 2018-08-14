@@ -1,7 +1,12 @@
 pages/SearchResultsPage.class
-utils/ConfigUtil.class
+pages/HackerNewsLandingPage.class
 pages/HomePage.class
 pages/BasePage.class
+pages/YCHomePage.class
 utils/WebElementUtils.class
+pages/HNAfterLoginPage.class
+utils/ConfigUtil.class
+pages/HNLoggedOutPage.class
+pages/HNLoginPage.class
 utils/DriverFactory.class
 utils/Config.class
