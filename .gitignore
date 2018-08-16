@@ -6,7 +6,7 @@
 
 # Package
 */target/**
-
+src/main/resources/
 # Package Files #
 *.jar
 *.war
