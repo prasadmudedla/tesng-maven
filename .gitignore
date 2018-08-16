@@ -6,7 +6,7 @@
 
 # Package
 */target/**
-
+/src/main/resources/drivers
 # Package Files #
 *.jar
 *.war
