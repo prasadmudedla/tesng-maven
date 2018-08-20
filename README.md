@@ -6,4 +6,6 @@
 
 * Install dependencies: `mvn clean install`
 
-* Run the test: `mvn test -Dtest=YCDemo`
+* Create an executable jar: `mvn clean package`
+
+* Run the tests: `java -jar target/testngMaven-1.0-SNAPSHOT-jar-with-dependencies.jar`
