@@ -24,6 +24,6 @@ public class WebElementUtils {
 
         public static void waitForElement(WebDriver dr, WebElement element){
             new WebDriverWait(dr, 10)
-                    .until(ExpectedConditions.presenceOfElementLocated(By.tagName(element.getTagName())));
+                    .until(ExpectedConditions.presenceOfElementLocated(By.tagName(element.getTagName()))).isDisplayed();
         }
 }

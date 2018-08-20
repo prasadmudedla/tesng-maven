@@ -7,6 +7,7 @@
 # Package
 */target/**
 /src/main/resources/drivers
+/test-output/**
 # Package Files #
 *.jar
 *.war
