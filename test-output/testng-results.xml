@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="YC" duration-ms="14870" started-at="2018-08-20T09:10:26Z" finished-at="2018-08-20T09:10:41Z">
+    <groups>
+    </groups>
+    <test name="Lambda" duration-ms="14870" started-at="2018-08-20T09:10:26Z" finished-at="2018-08-20T09:10:41Z">
+      <class name="tests.YCDemo">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.YCDemo@7a7b0070]" name="setUp" is-config="true" duration-ms="2919" started-at="2018-08-20T09:10:26Z" finished-at="2018-08-20T09:10:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test01_VerifyHomePage()[pri:0, instance:tests.YCDemo@7a7b0070]" name="test01_VerifyHomePage" duration-ms="76" started-at="2018-08-20T09:10:29Z" finished-at="2018-08-20T09:10:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01_VerifyHomePage -->
+        <test-method status="PASS" signature="test02_HackerNewsLandingPage()[pri:0, instance:tests.YCDemo@7a7b0070]" name="test02_HackerNewsLandingPage" duration-ms="7810" started-at="2018-08-20T09:10:29Z" finished-at="2018-08-20T09:10:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02_HackerNewsLandingPage -->
+        <test-method status="PASS" signature="test03_HackerNewsLoginPage()[pri:0, instance:tests.YCDemo@7a7b0070]" name="test03_HackerNewsLoginPage" duration-ms="423" started-at="2018-08-20T09:10:37Z" finished-at="2018-08-20T09:10:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03_HackerNewsLoginPage -->
+        <test-method status="PASS" signature="test04_AfterLoginPage()[pri:0, instance:tests.YCDemo@7a7b0070]" name="test04_AfterLoginPage" duration-ms="1663" started-at="2018-08-20T09:10:37Z" finished-at="2018-08-20T09:10:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04_AfterLoginPage -->
+        <test-method status="PASS" signature="test05_LoggedOut()[pri:0, instance:tests.YCDemo@7a7b0070]" name="test05_LoggedOut" duration-ms="1888" started-at="2018-08-20T09:10:39Z" finished-at="2018-08-20T09:10:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test05_LoggedOut -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.YCDemo@7a7b0070]" name="tearDown" is-config="true" duration-ms="79" started-at="2018-08-20T09:10:41Z" finished-at="2018-08-20T09:10:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.YCDemo -->
+    </test> <!-- Lambda -->
+  </suite> <!-- YC -->
+</testng-results>
